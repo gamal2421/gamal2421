@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @gamal2421  
+# 👋 Hi, I’m @gamal
 
 ## 🚀 About Me  
 I'm a passionate software developer with a strong interest in **AI, NLP, databases, and full-stack development**. I love solving complex problems and optimizing systems for efficiency. My projects often focus on **Java, Spring Boot, React, PostgreSQL, Oracle APEX, and Firestore**.  

@@ -14,10 +14,17 @@ I love solving complex problems and building scalable systems that make a differ
 
 ---
 
-## 💻 Featured Projects
-[![Repo: CV Management System](https://img.shields.io/badge/-CV_Management_System-blue?style=for-the-badge&logo=github)](https://github.com/gamal2421/cv-management-system)
-[![Repo: Library Management System](https://img.shields.io/badge/-Library_Management_System-green?style=for-the-badge&logo=github)](https://github.com/gamal2421/library-management-system)
-[![Repo: Full-Stack Web App](https://img.shields.io/badge/-Full_Stack_Web_App-purple?style=for-the-badge&logo=github)](https://github.com/gamal2421/full-stack-web-app)
+## 🚀 Featured Projects
+
+[![Personal Expenses Manager](https://github-readme-stats.vercel.app/api/pin/?username=gamal2421&repo=Personal-Expenses-Manager&theme=tokyonight)](https://github.com/gamal2421/Personal-Expenses-Manager)
+
+[![CV Management System (COR)](https://github-readme-stats.vercel.app/api/pin/?username=gamal2421&repo=COR&theme=tokyonight)](https://github.com/gamal2421/COR)
+
+[![School Management System (SMS)](https://github-readme-stats.vercel.app/api/pin/?username=gamal2421&repo=SMS&theme=tokyonight)](https://github.com/gamal2421/SMS)
+
+[![Library Management System](https://github-readme-stats.vercel.app/api/pin/?username=gamal2421&repo=library-management-system-&theme=tokyonight)](https://github.com/gamal2421/library-management-system-)
+
+[![THERENA – Desktop AI Assistant](https://github-readme-stats.vercel.app/api/pin/?username=gamal2421&repo=THERENA&theme=tokyonight)](https://github.com/gamal2421/THERENA)
 
 ---
 

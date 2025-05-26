@@ -16,16 +16,27 @@ I love solving complex problems and building scalable systems that make a differ
 
 ## 💻 Featured Projects
 
-### 🔹 CV Management System  
-> Process and extract structured data from CVs using **NLP**, with intelligent search and filtering.
+<div style="display: flex; flex-wrap: wrap; gap: 16px; justify-content: center;">
 
-### 🔹 Library Management System  
-> Desktop-based system built using **JavaFX + PostgreSQL**.
+  <div style="border: 1px solid #333; border-radius: 8px; padding: 16px; width: 300px; background-color: #1e1e2f;">
+    <h3 style="color: #61dafb;">🔹 CV Management System</h3>
+    <p>Process and extract structured data from CVs using <strong>NLP</strong>, with intelligent search and filtering.</p>
+  </div>
 
-### 🔹 Full-Stack Web App  
-> Built with **Spring Boot + React**, integrated with PostgreSQL and Firebase.
+  <div style="border: 1px solid #333; border-radius: 8px; padding: 16px; width: 300px; background-color: #1e1e2f;">
+    <h3 style="color: #61dafb;">🔹 Library Management System</h3>
+    <p>Desktop-based system built using <strong>JavaFX + PostgreSQL</strong>.</p>
+  </div>
+
+  <div style="border: 1px solid #333; border-radius: 8px; padding: 16px; width: 300px; background-color: #1e1e2f;">
+    <h3 style="color: #61dafb;">🔹 Full-Stack Web App</h3>
+    <p>Built with <strong>Spring Boot + React</strong>, integrated with PostgreSQL and Firebase.</p>
+  </div>
+
+</div>
 
 ---
+
 
 ## 🎯 Skills & Technologies
 

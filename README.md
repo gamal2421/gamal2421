@@ -19,36 +19,35 @@ I love solving complex problems and building scalable systems that make a differ
 
 ---
 ## 🚀 Featured Projects
-
 <table>
   <tr>
     <td>
       <a href="https://github.com/gamal2421/Personal-Expenses-Manager">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=gamal2421&repo=Personal-Expenses-Manager&theme=tokyonight" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=gamal2421&repo=Personal-Expenses-Manager&theme=tokyonight&cache_seconds=300" />
       </a>
     </td>
     <td>
       <a href="https://github.com/gamal2421/COR">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=gamal2421&repo=COR&theme=tokyonight" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=gamal2421&repo=COR&theme=tokyonight&cache_seconds=300" />
       </a>
     </td>
   </tr>
   <tr>
     <td>
       <a href="https://github.com/gamal2421/SMS">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=gamal2421&repo=SMS&theme=tokyonight" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=gamal2421&repo=SMS&theme=tokyonight&cache_seconds=300" />
       </a>
     </td>
     <td>
       <a href="https://github.com/gamal2421/library-management-system-">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=gamal2421&repo=library-management-system-&theme=tokyonight" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=gamal2421&repo=library-management-system-&theme=tokyonight&cache_seconds=300" />
       </a>
     </td>
   </tr>
   <tr>
     <td colspan="2" align="center">
       <a href="https://github.com/gamal2421/THERENA">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=gamal2421&repo=THERENA&theme=tokyonight" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=gamal2421&repo=THERENA&theme=tokyonight&cache_seconds=300" />
       </a>
     </td>
   </tr>

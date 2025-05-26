@@ -13,18 +13,41 @@ I love solving complex problems and building scalable systems that make a differ
 🛠️ **Stack:** Java • Spring Boot • React • PostgreSQL • Oracle APEX • Firestore • Node.js • Python • Flutter • Dart • Godot • Lua • Roblox
 
 ---
-
 ## 🚀 Featured Projects
 
-[![Personal Expenses Manager](https://github-readme-stats.vercel.app/api/pin/?username=gamal2421&repo=Personal-Expenses-Manager&theme=tokyonight)](https://github.com/gamal2421/Personal-Expenses-Manager)
-
-[![CV Management System (COR)](https://github-readme-stats.vercel.app/api/pin/?username=gamal2421&repo=COR&theme=tokyonight)](https://github.com/gamal2421/COR)
-
-[![School Management System (SMS)](https://github-readme-stats.vercel.app/api/pin/?username=gamal2421&repo=SMS&theme=tokyonight)](https://github.com/gamal2421/SMS)
-
-[![Library Management System](https://github-readme-stats.vercel.app/api/pin/?username=gamal2421&repo=library-management-system-&theme=tokyonight)](https://github.com/gamal2421/library-management-system-)
-
-[![THERENA – Desktop AI Assistant](https://github-readme-stats.vercel.app/api/pin/?username=gamal2421&repo=THERENA&theme=tokyonight)](https://github.com/gamal2421/THERENA)
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/gamal2421/Personal-Expenses-Manager">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=gamal2421&repo=Personal-Expenses-Manager&theme=tokyonight" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/gamal2421/COR">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=gamal2421&repo=COR&theme=tokyonight" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/gamal2421/SMS">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=gamal2421&repo=SMS&theme=tokyonight" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/gamal2421/library-management-system-">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=gamal2421&repo=library-management-system-&theme=tokyonight" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <a href="https://github.com/gamal2421/THERENA">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=gamal2421&repo=THERENA&theme=tokyonight" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 

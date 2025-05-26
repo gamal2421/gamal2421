@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F70000&center=true&vCenter=true&width=435&lines=👾+Welcome+to+my+GitHub;⚡+Beware+of+Glitches...;💥+THERENA+is+watching...">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+GitHub;Enjoy+the+chaos!&center=true&width=380&height=45&color=F70000&vCenter=true&pause=1000&size=22" />
 </p>
 
 

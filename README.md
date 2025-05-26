@@ -2,8 +2,9 @@
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+GitHub;Enjoy+the+chaos!&center=true&width=380&height=45&color=F70000&vCenter=true&pause=1000&size=22" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=F70000&center=true&vCenter=true&width=600&lines=W̸e̸l̸c̶o̶m̴e̶+̸S̷t̸r̸a̶n̴g̴e̷r̶s̵+̴̴" />
 </p>
+
 
 
 ---

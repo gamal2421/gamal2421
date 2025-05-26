@@ -83,7 +83,7 @@ Check out my games and creations on Roblox:
 
 ## 🐍 Contribution Activity
 
-![snake gif](https://github.com/gamal2421/gamal2421/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/gamal2421/snk/blob/output-svg-only/github-contribution-grid-snake-dark.svg)
 
 ---
 

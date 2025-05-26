@@ -1,7 +1,9 @@
 <h1 align="center">👋 Hi, I’m @gamal</h1><p align="center">
 
+
   
-  <img alt="not working" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F70000&center=true&vCenter=true&width=600&lines= %E2%98%9C%E2%98%B9%F0%9F%91%8D%E2%9A%90%F0%9F%92%A3%E2%98%9C+%F0%9F%92%A7%E2%9D%84%E2%98%BC%E2%98%BA%E2%9C%8C%E2%98%BA%E2%98%80%3B%E2%98%9C%E2%98%9F%E2%98%BA%E2%98%80%E2%98%9D+%E2%9C%8B%F0%9F%92%A7+%F0%9F%92%A3%E2%9C%AD+%F0%9F%8F%B1%E2%98%80%E2%9A%90%E2%98%BB%E2%9C%9E%E2%98%8C%E2%98%B9; Welcome+Stranger.;Here+is+my+profile.;" />
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F70000&center=true&vCenter=true&width=600&lines=Welcome+Stranger.;Here+is+my+profile.;%E2%98%9C%E2%98%B9%F0%9F%91%8D%E2%9A%90%F0%9F%92%A3%E2%98%9C+%F0%9F%92%A7%E2%9D%84%E2%98%BC%E2%98%BA%E2%9C%8C%E2%98%BA%E2%98%80%3B%E2%98%9C%E2%98%9F%E2%98%BA%E2%98%80%E2%98%9D+%E2%9C%8B%F0%9F%92%A7+%F0%9F%92%A3%E2%9C%AD+%F0%9F%8F%B1%E2%98%80%E2%9A%90%E2%98%BB%E2%9C%9E%E2%98%8C%E2%98%B9" />
 </p>
 
 

@@ -15,25 +15,9 @@ I love solving complex problems and building scalable systems that make a differ
 ---
 
 ## 💻 Featured Projects
-
-<div style="display: flex; flex-wrap: wrap; gap: 16px; justify-content: center;">
-
-  <div style="border: 1px solid #333; border-radius: 8px; padding: 16px; width: 300px; background-color: #1e1e2f;">
-    <h3 style="color: #61dafb;">🔹 CV Management System</h3>
-    <p>Process and extract structured data from CVs using <strong>NLP</strong>, with intelligent search and filtering.</p>
-  </div>
-
-  <div style="border: 1px solid #333; border-radius: 8px; padding: 16px; width: 300px; background-color: #1e1e2f;">
-    <h3 style="color: #61dafb;">🔹 Library Management System</h3>
-    <p>Desktop-based system built using <strong>JavaFX + PostgreSQL</strong>.</p>
-  </div>
-
-  <div style="border: 1px solid #333; border-radius: 8px; padding: 16px; width: 300px; background-color: #1e1e2f;">
-    <h3 style="color: #61dafb;">🔹 Full-Stack Web App</h3>
-    <p>Built with <strong>Spring Boot + React</strong>, integrated with PostgreSQL and Firebase.</p>
-  </div>
-
-</div>
+[![Repo: CV Management System](https://img.shields.io/badge/-CV_Management_System-blue?style=for-the-badge&logo=github)](https://github.com/gamal2421/cv-management-system)
+[![Repo: Library Management System](https://img.shields.io/badge/-Library_Management_System-green?style=for-the-badge&logo=github)](https://github.com/gamal2421/library-management-system)
+[![Repo: Full-Stack Web App](https://img.shields.io/badge/-Full_Stack_Web_App-purple?style=for-the-badge&logo=github)](https://github.com/gamal2421/full-stack-web-app)
 
 ---
 

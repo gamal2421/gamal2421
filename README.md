@@ -2,8 +2,9 @@
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=F70000&center=true&vCenter=true&width=600&lines=W̸e̸l̸c̶o̶m̴e̶+̸S̷t̸r̸a̶n̴g̴e̷r̶s̵+̴̴" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=F70000&center=true&vCenter=true&width=700&lines=Welcome+Stranger+%7C+☜☹👍⚐💣☜+💧❄☼✌☠☝☜☼;Here+is+my+profile+%7C+☟☜☼☜+✋💧+💣✡+🏱☼⚐☞✋☹☜" />
 </p>
+
 
 
 

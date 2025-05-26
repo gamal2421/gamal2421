@@ -10,7 +10,7 @@
 I'm a passionate software developer with a strong interest in **AI, NLP, databases, game development, and full-stack engineering**.  
 I love solving complex problems and building scalable systems that make a difference.
 
-🛠️ **Stack:** Java • Spring Boot • React • PostgreSQL • Oracle APEX • Firestore • Node.js • Godot • Lua • Roblox
+🛠️ **Stack:** Java • Spring Boot • React • PostgreSQL • Oracle APEX • Firestore • Node.js • Python • Flutter • Dart • Godot • Lua • Roblox
 
 ---
 
@@ -36,6 +36,9 @@ I love solving complex problems and building scalable systems that make a differ
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![Node-RED](https://img.shields.io/badge/Node--RED-8F0000?style=flat&logo=nodered&logoColor=white)
 ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=flat&logo=lua&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
 
 **Game & Design**  
 ![Roblox](https://img.shields.io/badge/Roblox-000000?style=flat&logo=roblox&logoColor=white)
@@ -66,6 +69,8 @@ I love solving complex problems and building scalable systems that make a differ
 ---
 
 ## 🎮 Roblox
+
+Tester at **Prodigy** | Experienced with **executors & injectors** in Roblox development.
 
 Check out my games and creations on Roblox:  
 🔗 [My Roblox Profile](https://www.roblox.com/home)

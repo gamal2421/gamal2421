@@ -1,8 +1,10 @@
 <h1 align="center">👋 Hi, I’m @gamal</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F70000&center=true&vCenter=true&width=600&lines=Welcome+Stranger.;Here+is+my+profile." />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F70000&center=true&vCenter=true&width=600&lines=Welcome+Stranger.;Here+is+my+profile.;%E2%98%9C%E2%98%B9%F0%9F%91%8D%E2%9A%90%F0%9F%92%A3%E2%98%9C+%F0%9F%92%A7%E2%9D%84%E2%98%BC%E2%98%BA%E2%9C%8C%E2%98%BA%E2%98%80;...
+" />
 </p>
+
 
 
 

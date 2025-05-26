@@ -1,10 +1,16 @@
-# 👋 Hi, I’m @gamal
+<h1 align="center">👋 Hi, I’m @gamal</h1>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/IHN00Yz6FfN7aPZKlZ/giphy.gif" width="300"/>
+</p>
+
+---
 
 ## 🧠 About Me  
-I'm a passionate software developer with a strong interest in **AI, NLP, databases, and full-stack development**.  
-I love solving complex problems and optimizing systems for efficiency.
+I'm a passionate software developer with a strong interest in **AI, NLP, databases, game development, and full-stack engineering**.  
+I love solving complex problems and building scalable systems that make a difference.
 
-🛠️ **Stack:** Java • Spring Boot • React • PostgreSQL • Oracle APEX • Firestore • Node.js • Godot • Lua
+🛠️ **Stack:** Java • Spring Boot • React • PostgreSQL • Oracle APEX • Firestore • Node.js • Godot • Lua • Roblox
 
 ---
 
@@ -52,31 +58,48 @@ I love solving complex problems and optimizing systems for efficiency.
 
 ## 🌱 Currently Learning
 
-- 🤖 **AI & NLP** for document intelligence  
-- 🎮 **Game development** with Godot + Lua  
-- ☁️ **Google Cloud services**  
-- 🕹️ Roblox Game Design + Animation  
+- 🤖 Advanced **AI & NLP**  
+- 🧩 Game development with **Godot & Roblox**  
+- ☁️ Building apps on **Google Cloud**  
+- 🔁 Optimizing **database performance**
+
+---
+
+## 🎮 Roblox
+
+Check out my games and creations on Roblox:  
+🔗 [My Roblox Profile](https://www.roblox.com/home)
 
 ---
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gamal2421&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gamal2421&layout=compact&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=gamal2421&show_icons=true&theme=tokyonight" width="49%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gamal2421&layout=compact&theme=tokyonight" width="49%"/>
+</p>
+
+---
+
+## 🐍 Contribution Activity
+
+![snake gif](https://github.com/gamal2421/gamal2421/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
 ## 📫 Contact Me
 
-📧 Email: gamal29211@gmail.com  
-🌐 GitHub: [@gamal2421](https://github.com/gamal2421)
+📧 **Email:** gamal29211@gmail.com  
+🌐 **GitHub:** [@gamal2421](https://github.com/gamal2421)
 
 ---
 
 ## ⚡ Fun Fact  
-I'm an **INTJ-T** who thrives on logic, structure, and system design.  
-Whether it’s AI or animation — I love **building smart, scalable things**.
+I'm an **INTJ-T** — obsessed with logic, strategy, and system design.  
+From backend systems to game engines, I love making things **efficient and intelligent**.
 
 ---
 
-🚀 Let’s connect and **build something amazing!**
+<p align="center">
+  🚀 Let’s connect and build something amazing!
+</p>
